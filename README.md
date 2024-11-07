@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,github,git,vscode&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,mysql&theme=light)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhatan2412&layout=compact&theme=radical&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
