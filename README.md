@@ -1,6 +1,6 @@
 # I am Tan
 
-**SKILLS**
+**BASIC SKILLS**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,github,git,vscode&theme=light)](https://skillicons.dev)
 
