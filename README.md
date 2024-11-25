@@ -2,8 +2,8 @@
 
 <h2><b>BASIC SKILLS 🐧 🐣</b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,github,git,vscode&theme=light)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,js,html,css&theme=light)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,ps&theme=light)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhatan2412&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://media1.tenor.com/m/hvXP426au04AAAAC/chicken-chicken-bro.gif" height = 180>
